@@ -15,8 +15,11 @@ https://github.com/1993Vivi/no-show-data-investigation-with-python/blob/main/Inv
 
 # Statistical Analysis Scope
 *Data Wrangling
+
 *Exploratory Data Analysis (EDA)
+
 *Examination of central tendency and spread
+
 *Data visualizations
 
 # Findings

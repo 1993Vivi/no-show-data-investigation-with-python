@@ -23,8 +23,12 @@ https://github.com/1993Vivi/no-show-data-investigation-with-python/blob/main/Inv
 *Data visualizations
 
 # Findings
-SMS received or not is not the main factor to affect patient show in the appointment because most of patients show in appointment without receiving SMS
-Gender is an important factor affect the no show numbers, male has the highest number of not showing in an appointment.
-Jardim camburi, Maria ortiz, Itarare, Resistencia, Centro, Jesus De nazareth, Caratoiza, Tabuazeiro, Bonfim are the top ten neighbours that have highest no show numbers in the dataset, more research need to be done to idenfity the reason, such as traffic issue, average income....
-Scholarship is not the key factor to decide patients attendance of appointment
-Age is an important factor to affect the number of people not showing in an appointment, people under 60 are more likey not to show in appointment, people age above 60 show in appointment more frequently, we can assume that they have better health awareness.¶
+*SMS received or not is not the main factor to affect patient show in the appointment because most of patients show in appointment without receiving SMS
+
+*Gender is an important factor affect the no show numbers, male has the highest number of not showing in an appointment.
+
+*Jardim camburi, Maria ortiz, Itarare, Resistencia, Centro, Jesus De nazareth, Caratoiza, Tabuazeiro, Bonfim are the top ten neighbours that have highest no show numbers in the dataset, more research need to be done to idenfity the reason, such as traffic issue, average income....
+
+*Scholarship is not the key factor to decide patients attendance of appointment
+
+*Age is an important factor to affect the number of people not showing in an appointment, people under 60 are more likey not to show in appointment, people age above 60 show in appointment more frequently, we can assume that they have better health awareness.¶

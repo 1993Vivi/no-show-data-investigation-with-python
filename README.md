@@ -10,7 +10,8 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
 # Details
 I have looked into the dataset and managed a few problems like unifying names, removing wrong data, adding new features based on existing data. I have also investigated most of independent variables in the dataset and made a few observations comparing them to each other as well as to the dependent one (no_show). As this was only an exploratory analysis, many potential correlations may remain uncovered. The data should be investigated further with more advanced statistical analysis to potentially reveal new insights and correlations.
 
-For details see analysis documentation Jupyter Notebook or HTML.
+For details see analysis documentation Jupyter Notebook or HTML as below
+https://github.com/1993Vivi/no-show-data-investigation-with-python/blob/main/Investigate_a_Dataset%20(1).ipynb
 
 # Statistical Analysis Scope
 Data Wrangling

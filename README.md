@@ -12,13 +12,13 @@ I have looked into the dataset and managed a few problems like unifying names, r
 
 For details see analysis documentation Jupyter Notebook or HTML.
 
-#Statistical Analysis Scope
+# Statistical Analysis Scope
 Data Wrangling
 Exploratory Data Analysis (EDA)
 Examination of central tendency and spread
 Data visualizations
 
-#Findings
+# Findings
 SMS received or not is not the main factor to affect patient show in the appointment because most of patients show in appointment without receiving SMS
 Gender is an important factor affect the no show numbers, male has the highest number of not showing in an appointment.
 Jardim camburi, Maria ortiz, Itarare, Resistencia, Centro, Jesus De nazareth, Caratoiza, Tabuazeiro, Bonfim are the top ten neighbours that have highest no show numbers in the dataset, more research need to be done to idenfity the reason, such as traffic issue, average income....

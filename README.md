@@ -1,7 +1,8 @@
 # no-show-data-investigation-with-python
 In this project, I analyzed the data associated with 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. I used pandas, NumPy, Matplotlib, CSV, to go through the data analysis process.
 
-The goal of this project is to investigate a dataset of appoinment records for Brasil public hospitals. The data includes some attributes of patients and state if the patients showed up to appointments. The analysis should be focused on finding trends influencing patients to show or not show up to appointments. Using descriptive statistics the following question should be answered: What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment? Predictive analytics is out of scope of this project.
+The goal of this project is to investigate a dataset of appoinment records for Brasil public hospitals. The data includes some attributes of patients and state if the patients showed up to appointments. The analysis focused on finding trends influencing patients to show or not show up to appointments. Using descriptive statistics the following question should be answered: What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment? 
+
 
 The original problem description and data set can be found here: https://www.kaggle.com/joniarroba/noshowappointments/home
 

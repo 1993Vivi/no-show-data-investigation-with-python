@@ -14,10 +14,10 @@ For details see analysis documentation Jupyter Notebook or HTML as below
 https://github.com/1993Vivi/no-show-data-investigation-with-python/blob/main/Investigate_a_Dataset%20(1).ipynb
 
 # Statistical Analysis Scope
-Data Wrangling
-Exploratory Data Analysis (EDA)
-Examination of central tendency and spread
-Data visualizations
+*Data Wrangling
+*Exploratory Data Analysis (EDA)
+*Examination of central tendency and spread
+*Data visualizations
 
 # Findings
 SMS received or not is not the main factor to affect patient show in the appointment because most of patients show in appointment without receiving SMS
